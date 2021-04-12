@@ -1,6 +1,8 @@
 alert("Criando objetos!"
-	+ "\nVerifique o código-fonte para ver"
-	+ "\nas formas utilizadas.");
+	+ "\n\nVerifique o código-fonte para ver"
+	+ "\nas formas utilizadas."
+	+ "\n\nNo final dos alerts, um print"
+	+ "\ndo código será exibido.");
 
 //Usando Construtor
 function Aluno(nome, ra, curso){
